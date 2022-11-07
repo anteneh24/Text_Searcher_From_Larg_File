@@ -1,0 +1,19 @@
+{
+  "name": "propine_answer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/anteneh24/propine_answer.git"
+  },
+  "author": "anteneh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anteneh24/propine_answer/issues"
+  },
+  "homepage": "https://github.com/anteneh24/propine_answer#readme"
+}
